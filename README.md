@@ -35,6 +35,7 @@ Users can securely upload, store, and manage their:
 - **Other Documents** - Additional career-related files
 
 The platform features automatic document detection powered by ML services, eliminating the need for manual categorization.
+Demo video link- https://youtu.be/cuSV1TntlzA
 <img width="1280" alt="Screenshot 2025-06-18 at 2 53 51 PM" src="https://github.com/user-attachments/assets/7312bcf8-7d12-4973-9099-2830e24dc040" />
 <img width="1280" alt="Screenshot 2025-06-18 at 2 55 37 PM" src="https://github.com/user-attachments/assets/b4757ba7-a265-4a2c-8129-c6ddc2152e52" />
 <img width="1280" alt="Screenshot 2025-06-18 at 2 56 54 PM" src="https://github.com/user-attachments/assets/8137d431-e31a-4119-8f09-a442a213e114" />
